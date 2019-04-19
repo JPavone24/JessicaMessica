@@ -1,0 +1,22 @@
+
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Jessica's Bio</h1>
+<h2> Jessica Messica </h2>
+<img src="http://rdironworks.com/wp-content/uploads/2017/12/dummy-200x200.png">
+
+<p>I love bunnies and thai iced tea.</p>
+	
+<h2> Contact info </h2>
+
+<ol>
+<li><b>Email: </b>jessicapavone24@yahoo.com</li>
+  <li><b>Github: </b>https://github.com/JPavone24</li>
+  <li><b>Portfolio: </b>Comming soon!!!</li>
+ </ol>
+</body>
+</html>
+
